@@ -1,6 +1,4 @@
-Here is a sample `README.md` for the CTF challenge "Download The Flag" based on the details you've provided:
 
-```markdown
 # CTF Writeup: "Download The Flag"
 
 ## Challenge Overview
