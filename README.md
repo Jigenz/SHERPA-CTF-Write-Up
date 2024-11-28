@@ -116,6 +116,7 @@ SHCTF24{D0wnLO4d_7h3_fl4G_W1th0u7_thE_wh0L3_f1l3}
 ## Flag
 The flag is:  
 `SHCTF24{D0wnLO4d_7h3_fl4G_W1th0u7_thE_wh0L3_f1l3}`
+![image](https://github.com/user-attachments/assets/0a075938-0f74-4258-a370-d3611cb0ff46)
 
 ## Conclusion
 By leveraging HTTP range requests, we were able to download just the relevant portions of the `flag.txt` file and retrieve the flag without the need to download the entire 100 GB file. This approach saved both time and bandwidth while still achieving the challenge's objective.
