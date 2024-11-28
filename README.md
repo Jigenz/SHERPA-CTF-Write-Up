@@ -123,9 +123,4 @@ By leveraging HTTP range requests, we were able to download just the relevant po
 - The flag was embedded at the end of the file, but the misleading content at the beginning helped to validate our approach of partial content retrieval.
 - This solution could be extended for challenges where large files are involved, and partial content requests are the key to success.
 
----
 
-Happy hacking! 🔐
-```
-
-This `README.md` provides a detailed step-by-step explanation of the solution, including all necessary commands, outputs, and analysis. Feel free to modify it further depending on your needs!
