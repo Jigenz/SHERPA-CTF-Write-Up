@@ -5,7 +5,7 @@ Team Name: LegionX
 This repository contains write-ups for various CTF challenges, including:
 
 - **Miscellaneous Challenges**
-- - **AI** 
+- **AI** 
 - **Reverse Engineering**  
   
  
